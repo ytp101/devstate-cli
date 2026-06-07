@@ -1,11 +1,23 @@
 {
-  "name": "devstate",
+  "name": "devstate-cli",
   "version": "1.0.0",
-  "description": "",
+  "description": "The local-first save state for your AI coding sessions.",
   "main": "index.js",
   "bin": {
     "devstate": "./index.js"
   },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cli",
+    "productivity",
+    "developer-tools",
+    "ai",
+    "context"
+  ],
+  "author": "Yodsran Phiewpong",
+  "license": "MIT",
   "dependencies": {
     "better-sqlite3": "^11.0.0"
   }
