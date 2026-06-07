@@ -1,2 +1,4 @@
 .devstate.db
 node_modules/
+
+*.tape
