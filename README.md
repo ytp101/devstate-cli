@@ -13,7 +13,8 @@ Because honestly, manually typing `git status` to feed your LLM context in 2026 
 ---
 
 ### 🎥 Workflow Demonstration
-*(Add your 15-second terminal GIF here)*
+
+![DevState Operational Workflow](devstate.gif)
 
 ---
 
